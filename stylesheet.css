@@ -1,0 +1,74 @@
+body {
+	background: mistyrose;
+	font-family: tahoma;
+}
+
+p {
+	font-family: Times New Roman;
+	font-weight: bolder;
+	font-size: 20px;
+}
+
+h2	{
+
+	color: darkgreen;
+}
+
+p	{
+	color: darkgreen;
+}
+
+dt	{
+	color: salmon;
+	font-size: 20px;
+	text-align: left;
+}
+
+li	{
+	color: salmon;
+	text-align: left;
+}
+
+dd	{
+	color: darkgreen;
+	font-family: tahoma;
+	font-size: 20px;
+	text-align: left;
+}
+
+h1	{
+	color: salmon;
+	font-size: 40px;
+}
+
+
+#resume
+	{
+	width: 700px;
+	height: 50px;
+	padding: 10px;
+	border: 5px darkgreen;
+	margin:	0;
+	text-align: center;
+}
+
+img
+	{
+	width: 250px;
+	padding: 0px;
+	border: 20px solid #555;
+	border-color: darkgreen;
+}
+
+a	{
+	color: salmon;
+}
+
+
+figcaption	{
+	color: darkgreen;
+}
+
+
+ 
+
